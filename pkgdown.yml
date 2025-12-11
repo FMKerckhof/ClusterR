@@ -3,7 +3,7 @@ pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   the_clusterR_package: the_clusterR_package.html
-last_built: 2025-12-11T15:14Z
+last_built: 2025-12-11T15:18Z
 urls:
   reference: https://mlampros.github.io/ClusterR/reference
   article: https://mlampros.github.io/ClusterR/articles
